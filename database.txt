@@ -6,3 +6,13 @@ str..
 table
 Zino
 12345678x@X
+
+*Huong dan deploy backend*
+1. Publish .NET source code
+2. vao thu muc publish -> cmd -> dotnet *tenfilesource*.dll
+
+*Huong dan deploy frontend*
+1. npm build
+2. IIS thiet lap va tro vao thu muc build
+
+Note: phai mo port cho server
