@@ -16,3 +16,4 @@ Zino
 2. IIS thiet lap va tro vao thu muc build
 
 Note: phai mo port cho server
+Firewall -> Advanced setting -> http://doc.longvan.net/pages/viewpage.action?pageId=18153474
